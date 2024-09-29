@@ -24,13 +24,21 @@ MET = Metabolic Equivalent of Task
 Run the program and it will prompt to add a person's information
 
 Enter fitness data for each person (Enter a blank name to finish):
+
 Enter person's name: John Doe
+
 Enter person's gender (m - male or f - female): m
+
 Enter person's age: 33
+
 Enter person's weight in kilograms: 81
+
 Enter person's height in meters: 1.86
+
 Choose activity number from table of physical activities: 10 (from table: Sexual activity -> MET~5.8)
+
 Enter exercise duration in minutes: 1
+
 Enter person's name:
 
 Fitness Analysis:
